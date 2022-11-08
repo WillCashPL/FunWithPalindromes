@@ -1,8 +1,8 @@
 ﻿# Table of Contents
-1. [Building the app](#Building the app)
-2. [Running the app](#Running the app)
-3. [How to use the app](#How to use the app)
-4. [Assumptions made during coding the app](#Assumptions made during coding the app)
+1. [Building the app](#building-the-app)
+2. [Running the app](#running-the-app)
+3. [How to use the app](#how-to-use-the-app)
+4. [Assumptions made during coding the app](#assumptions-made-during-coding-the-app)
 
 
 ## Building The App
