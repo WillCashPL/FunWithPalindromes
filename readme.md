@@ -1,9 +1,13 @@
 ﻿# Table of Contents
-1. [Building the app](#building-the-app)
-2. [Running the app](#running-the-app)
-3. [How to use the app](#how-to-use-the-app)
-4. [Assumptions made during coding the app](#assumptions-made-during-coding-the-app)
+1. [What the app does?](#what-the-app-does)
+2. [Building the app](#building-the-app)
+3. [Running the app](#running-the-app)
+4. [How to use the app](#how-to-use-the-app)
+5. [Assumptions made during coding the app](#assumptions-made-during-coding-the-app)
 
+
+## What the app does?
+This is a console app. It checks within the provided text for palindromes. Then it shows 3 longest palindromes (with the information about starting point and the length of the palindrome).
 
 ## Building The App
 In order to build app, open terminal/command in the FunWithPalindromes main directory
